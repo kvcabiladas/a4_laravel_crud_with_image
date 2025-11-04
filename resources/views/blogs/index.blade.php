@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog List</title>
+    <title>BLOG LIST</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 font-sans">
 
 <div class="max-w-6xl mx-auto mt-10 bg-white shadow-lg rounded-xl p-8">
     <div class="flex justify-between items-center mb-6">
-        <h1 class="text-3xl font-bold text-gray-800">Blog List</h1>
+        <h1 class="text-3xl font-bold text-gray-800">BLOG LIST</h1>
         <a href="{{ route('blogs.create') }}"
            class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow">
            + Create New Blog
